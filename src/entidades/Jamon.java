@@ -28,6 +28,7 @@ public class Jamon {
 	public static Jamon NuevoJamon() {
 		Jamon ret = null;
 		System.out.println("introduce el peso del jamon: ");
+		System.out.println("probamos");
 		return ret;
 	}
 	
