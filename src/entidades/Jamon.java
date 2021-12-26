@@ -25,6 +25,12 @@ public class Jamon {
 		this.aniosDeMaduracion = aniosDeMaduracion;
 	}
 	
+	public static Jamon NuevoJamon() {
+		Jamon ret = null;
+		System.out.println("introduce el peso del jamon: ");
+		return ret;
+	}
+	
 	
 
 }
